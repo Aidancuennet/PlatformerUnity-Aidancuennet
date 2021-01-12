@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+mon projet de jeu platformer sur Unity
 
-You can use the [editor on GitHub](https://github.com/Aidancuennet/PlatformerUnity-Aidancuennet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+comme évaluation dans l'insititut SAE j'ai du, avec toute ma classe, faire un niveau d'un jeu simple sur Unit, très excité j'ai donc décider de partir pour un platformer classique.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+je l'ai nommé Grassland Adventure, bien qu'il n'y a pas énormément d'aventure à avoir...
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+scénario :
 
-```markdown
-Syntax highlighted code block
+l'Histoire se déroule dans une vaste contée nommée GrassLand, et un aventurier commence son trajet en tentant sa chance pour entrer dans une caverne dite maudite, ce n'est pas quelque saut et quelque slime qui vont lui en empecher. l'objectif de l'aventurier est simplement d'atteindre la caverne et tomber dans le trou a la fin, qui sait ce qui lui arrive apres ?
 
-# Header 1
-## Header 2
-### Header 3
+détails du Gameplay : le Gameplay est extremement simple et consiste juste a sauter pour arriver jusqu'a la fin sans tomber dans l'eau, d'une fallaise ou tuer par les slimes qui habitent la région, on peux sauter, taper, s'accroupire et bouger de gauche a droite, tout cela en utilisant les flèches directionnels du clavier, rien de plus simple.
 
-- Bulleted
-- List
+mon expérience : 
 
-1. Numbered
-2. List
+malheureusement, GrassLand adventure est une aventure qui n'est pas finis, car au cours de la programmation du jeu, je me suis pris dans mes deux plus grosses faiblesses : la lenteurs et la naïveté. j'ai sous estimer le temps que sa prend pour programmer a cela m'a couter très cher, j'ai été bien trop lent, et j'ai dû recommencer plusieurs fois car j'ai remarqué que j'étais bien trop amnitieux.
 
-**Bold** and _Italic_ and `Code` text
+en conclusion je ne suis pas dutout satisfait avec mon travail, et j'ai très mal éxécuter des choses dont je sais que je suis capable de faire. Cependant, j'ai quand même appris beaucoup de choses, et j'ai fait des erreurs que je ne compte plus refaire pour sûr. je me réconforte dans le fait que je ne ferait plus jamais de telles erreurs.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aidancuennet/PlatformerUnity-Aidancuennet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

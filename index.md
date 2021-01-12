@@ -1,6 +1,6 @@
 mon projet de jeu platformer sur Unity
 
-comme évaluation dans l'insititut SAE j'ai du, avec toute ma classe, faire un niveau d'un jeu simple sur Unit, très excité j'ai donc décider de partir pour un platformer classique.
+comme évaluation dans l'insititut SAE j'ai du, avec toute ma classe, faire un niveau d'un jeu simple sur Unity, très excité j'ai donc décider de partir pour un platformer classique.
 
 je l'ai nommé Grassland Adventure, bien qu'il n'y a pas énormément d'aventure à avoir...
 
@@ -9,7 +9,7 @@ scénario :
 
 l'Histoire se déroule dans une vaste contée nommée GrassLand, et un aventurier commence son trajet en tentant sa chance pour entrer dans une caverne dite maudite, ce n'est pas quelque saut et quelque slime qui vont lui en empecher. l'objectif de l'aventurier est simplement d'atteindre la caverne et tomber dans le trou a la fin, qui sait ce qui lui arrive apres ?
 
-détails du Gameplay : le Gameplay est extremement simple et consiste juste a sauter pour arriver jusqu'a la fin sans tomber dans l'eau, d'une fallaise ou tuer par les slimes qui habitent la région, on peux sauter, taper, s'accroupire et bouger de gauche a droite, tout cela en utilisant les flèches directionnels du clavier, rien de plus simple.
+détails du Gameplay : le Gameplay est extrêmement simple et consiste juste a sauter pour arriver jusqu'a la fin sans tomber dans l'eau, d'une fallaise ou tuer par les slimes qui habitent la région, on peux sauter, taper, s'accroupire et bouger de gauche a droite, tout cela en utilisant les flèches directionnels du clavier, rien de plus simple.
 
 mon expérience : 
 

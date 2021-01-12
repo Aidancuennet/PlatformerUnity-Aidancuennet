@@ -13,7 +13,7 @@ détails du Gameplay : le Gameplay est extrêmement simple et consiste juste a s
 
 mon expérience : 
 
-malheureusement, GrassLand adventure est une aventure qui n'est pas finis, car au cours de la programmation du jeu, je me suis pris dans mes deux plus grosses faiblesses : la lenteurs et la naïveté. j'ai sous estimer le temps que sa prend pour programmer a cela m'a couter très cher, j'ai été bien trop lent, et j'ai dû recommencer plusieurs fois car j'ai remarqué que j'étais bien trop amnitieux.
+malheureusement, GrassLand adventure est une aventure qui n'est pas finis, car au cours de la programmation du jeu, je me suis pris dans mes deux plus grosses faiblesses : la lenteurs et la naïveté. j'ai sous estimer le temps de programmation et cela m'a couter très cher, j'ai été bien trop lent, et j'ai dû recommencer plusieurs fois car j'ai remarqué que j'étais bien trop ambitieux.
 
 en conclusion je ne suis pas dutout satisfait avec mon travail, et j'ai très mal éxécuter des choses dont je sais que je suis capable de faire. Cependant, j'ai quand même appris beaucoup de choses, et j'ai fait des erreurs que je ne compte plus refaire pour sûr. je me réconforte dans le fait que je ne ferait plus jamais de telles erreurs.
 

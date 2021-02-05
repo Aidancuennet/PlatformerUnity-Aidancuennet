@@ -17,6 +17,12 @@ public class CharacterController2D : MonoBehaviour
 	private Rigidbody2D m_Rigidbody2D;
 	private bool m_FacingRight = true;  
 	private Vector3 m_Velocity = Vector3.zero;
+    private Vector3 spawnPoint;
+
+    void Start()
+    {
+        spawnPoint = transform.position;
+    }
 
 	[Header("Events")]
 	[Space]
@@ -143,5 +149,13 @@ public class CharacterController2D : MonoBehaviour
 		theScale.x *= -1;
 		transform.localScale = theScale;
 	}
- 
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "FallDetector")
+        {
+            transform.position = spawnPoint;
+        }
+    }
+
 }

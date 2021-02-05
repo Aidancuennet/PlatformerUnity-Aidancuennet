@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Cinemachine;
 
 public class LevelManager : MonoBehaviour
 {
@@ -9,13 +10,16 @@ public class LevelManager : MonoBehaviour
     public Transform respawnPoint;
     public GameObject PlayerPrefab;
 
+    public CinemachineVirtualCameraBase cam;
+
     private void Awake()
     {
         instance = this;
     }
 
-    public void Respawn()
+   public void Respawn()
     {
-        Instantiate(PlayerPrefab, respawnPoint.position, Quaternion.identity);
+        GameObject player = Instantiate(PlayerPrefab, respawnPoint.position, Quaternion.identity);
+        cam.Follow = player.transform;
     }
 }
